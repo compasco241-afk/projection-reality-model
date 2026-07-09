@@ -116,6 +116,7 @@ PRM begins with several guiding questions:
 - [Reasoning Reviewer Gate](reasoning_reviewer_gate.md)
 - [Time, Energy and Mass](time_energy_mass.md)
 - [Information and Change](information_and_change.md)
+- [Communication Model](communication_model.md)
   
 ## Author
 
