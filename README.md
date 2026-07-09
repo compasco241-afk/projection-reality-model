@@ -117,6 +117,7 @@ PRM begins with several guiding questions:
 - [Time, Energy and Mass](time_energy_mass.md)
 - [Information and Change](information_and_change.md)
 - [Communication Model](communication_model.md)
+- [Limitations](limitations.md)
   
 ## Author
 
