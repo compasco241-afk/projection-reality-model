@@ -123,6 +123,8 @@ PRM begins with several guiding questions:
 - [Examples](examples.md)
 - [Research Questions](research_questions.md)
 - [Test Cases](test_cases.md)
+- [Distinguishability Theory](distinguishability_theory.md)
+
   
 ## Author
 
