@@ -124,6 +124,7 @@ PRM begins with several guiding questions:
 - [Research Questions](research_questions.md)
 - [Test Cases](test_cases.md)
 - [Distinguishability Theory](distinguishability_theory.md)
+- [Test: Network Packet as WR](test_packet_as_wr.md)
 
   
 ## Author
