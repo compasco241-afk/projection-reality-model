@@ -109,6 +109,12 @@ PRM begins with several guiding questions:
 4. Can reasoning be evaluated as an organized projection from premises to conclusions?
 5. Can artificial intelligence benefit from a reviewer layer that tests the stability of reasoning before producing a final answer?
 
+## Project Documents
+
+- [Polish version / Wersja polska](README_PL.md)
+- [Core Concepts](core_concepts.md)
+- [Reasoning Reviewer Gate](reasoning_reviewer_gate.md)
+  
 ## Author
 
 Project initiated by **Przemek / Compasco241** as an independent conceptual research project.
