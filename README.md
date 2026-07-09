@@ -122,6 +122,7 @@ PRM begins with several guiding questions:
 - [Working Relation](working_relation.md)
 - [Examples](examples.md)
 - [Research Questions](research_questions.md)
+- [Test Cases](test_cases.md)
   
 ## Author
 
